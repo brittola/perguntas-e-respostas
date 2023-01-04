@@ -12,3 +12,5 @@ e salva as perguntas e respostas no banco de dados
 Tecnologias utilizadas:
 - Node.js (Express, Sequelize, EJS)
 - MySQL
+
+##### No arquivo /database/database.js, onde é definida a conexão com o banco de dados, é necessário preencher a string de senha que está vazia.
